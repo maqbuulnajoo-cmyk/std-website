@@ -118,6 +118,11 @@ color:#aaa;
 </head>
 
 <body>
+    <div style="text-align:center; padding:20px 0;">
+        <img src="URL_SUURAA_KEESSAN_HAA_KAASI" 
+             alt="STD Logo" 
+             style="max-width:200px; border-radius:20px; border:3px solid #e94560;">
+    </div>
 
 <section class="hero">
 
